@@ -25,3 +25,10 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+.list-section {
+  height: 60%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
