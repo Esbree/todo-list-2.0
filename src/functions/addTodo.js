@@ -1,8 +1,11 @@
 function addTodo() {
   const addButton = document.getElementById("add-button");
+  const userInputText = document.getElementById("user-input");
 
   addButton.addEventListener("click", function () {
-    console.log("hello world!");
+    console.log(userInputText.value);
+
+    userInputText.value = "";
   });
 }
 
