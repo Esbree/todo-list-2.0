@@ -1,5 +1,8 @@
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: ui-rounded, "Hiragino Maru Gothic ProN", Quicksand, Comfortaa,
+    Manjari, "Arial Rounded MT", "Arial Rounded MT Bold", Calibri,
+    source-sans-pro, sans-serif;
+  font-weight: normal;
   background-color: rebeccapurple;
   margin: 0;
   padding: 0;
